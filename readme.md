@@ -4,7 +4,7 @@
 
 - **问题：**
 
-![image-20210827102052801](C:\Users\Wu Dingwei\AppData\Roaming\Typora\typora-user-images\image-20210827102052801.png)
+![0](https://github.com/Wukwim/Weapon-Target-Allocation/blob/main/pictures/0.png)
 
 
 
@@ -24,14 +24,14 @@
 
 *动态规划结果*：
 
-![1](D:\Desktop\1.png)
+![1](https://github.com/Wukwim/Weapon-Target-Allocation/blob/main/pictures/1.png)
 
 *穷举法结果*：
 
-![2](D:\Desktop\2.png)
+![2](https://github.com/Wukwim/Weapon-Target-Allocation/blob/main/pictures/2.png)
 
 *界面显示效果：*
 
-![3](D:\Desktop\3.png)
+![3](https://github.com/Wukwim/Weapon-Target-Allocation/blob/main/pictures/3.png)
 
-![4](D:\Desktop\4.png)
+![4](https://github.com/Wukwim/Weapon-Target-Allocation/blob/main/pictures/4.png)
