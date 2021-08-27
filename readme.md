@@ -10,13 +10,13 @@
 
 - **程序：**
 
-**==target_allocation.py==**：采用穷举法和动态规划两种算法求解分配问题，并输出结果。
+**target_allocation.py**：采用穷举法和动态规划两种算法求解分配问题，并输出结果。
 
-==**interface.ui**==：pyQt5界面设计UI图。
+**interface.ui**：pyQt5界面设计UI图。
 
-==**interface.py**==：pyQt5界面设计主程序。
+**interface.py**：pyQt5界面设计主程序。
 
-**==calculateQt.py==**： Qt界面调用**==target_allocation.py==**主程序并显示计算结果。
+**calculateQt.py**： Qt界面调用**==target_allocation.py==**主程序并显示计算结果。
 
 
 
